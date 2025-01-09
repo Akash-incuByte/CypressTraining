@@ -1,0 +1,17 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^21.0.3",
+    "@cypress/webpack-dev-server": "^4.0.0",
+    "@cypress/webpack-preprocessor": "^6.0.2",
+    "cypress": "^13.17.0"
+  }
+}
